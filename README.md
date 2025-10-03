@@ -13,5 +13,5 @@ The goal of this project is to develop a machine learning model that predicts wh
 
 ## Group Members
 1. Ravichandra Parvatham
-2. Shreeya Dasa
+2. Shreeya Dasa Lakshminath
 3. Hemanth Tulasiraman
