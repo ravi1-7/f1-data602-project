@@ -30,5 +30,5 @@ By combining the historical breadth of the Kaggle dataset with the real-time dep
 
 ## Group Members
 1. Ravichandra Parvatham
-2. Shreeya Dasa
-3. Hemanth Tulasiraman
+2. Shreeya Dasa Lakshminath
+3. Hemanth Thulasiraman
