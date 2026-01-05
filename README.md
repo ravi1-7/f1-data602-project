@@ -1,7 +1,7 @@
 # F1 Race Prediction:
 
 
-# [View HTML]([./analysis.html](https://ravi1-7.github.io/f1-data602-project/analysis.html)): 
+# View HTML: https://ravi1-7.github.io/f1-data602-project/analysis.html
 
 ## Project Overview
 Formula 1 (F1), often termed the pinnacle of engineering, is the world’s leading motorsport. Since its debut in 1950, F1 has drawn millions of fans through its dramatic Grand Prix events. With over 826 million global followers, F1 is a prime example of big data and real-time analytics in action.
