@@ -1,4 +1,4 @@
-# F1 Race Prediction: Winner-Optimized Model
+# F1 Race Prediction:
 ### DATA 602 - Final Project
 
 # 🏎️ [View Full Interactive Analysis (HTML)](./analysis.html)
